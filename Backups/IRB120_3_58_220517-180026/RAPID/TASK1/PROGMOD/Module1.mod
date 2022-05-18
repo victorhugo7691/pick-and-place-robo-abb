@@ -7,8 +7,7 @@ MODULE Module1
 	!***********************************************************
     !
     ! Module:  Module1
-    ! Author: Victor Hugo Miranda
-    ! Author: Bruno Emílio
+    ! Author: Victor Hugo B. S. Miranda
     !
     !***********************************************************
     PROC main() !Início do programa
